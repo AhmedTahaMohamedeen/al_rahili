@@ -48,7 +48,7 @@
 
 
 # posts
-<img src="shots/user/13.jpg" height="500em"  />&nbsp;&nbsp;&nbsp;&nbsp;<img src="shots/user/14.jpg" height="500em"  />
+<img src="shots/13.jpg" height="500em"  />&nbsp;&nbsp;&nbsp;&nbsp;<img src="shots/14.jpg" height="500em"  />
 
 
 
